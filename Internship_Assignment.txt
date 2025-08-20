@@ -1,0 +1,75 @@
+Interactive Educational Module 
+
+About Us 
+
+We are a company dedicated to revolutionizing how students learn. Our goal is to build a 
+world-class educational platform that can teach anyone, anything, through interactive and 
+engaging experiences. 
+
+Assignment Overview 
+
+Step 1: Explore Our Current Platform 
+
+1.  Visit students.quazaredu.com 
+2.  Sign up for an account 
+3.  Use class code:  PHYSIX   and   PYTHON 
+4.  Explore the kinematics in 1D modules to understand our approach to interactive 
+
+learning 
+
+Step 2: Your Challenge 
+
+Design and develop an interactive educational module that teaches a Class 10 level topic 
+using simulations, animations, and interactive elements. 
+Choose one topic from the following: 
+
+●  Atomic Structure 
+●  Waves 
+●  Optics 
+●  Area of Triangles 
+●  Fluids 
+
+Technical Requirements 
+
+Include interactive simulations and animations 
+
+●  Build a React-based web application 
+● 
+●  Ensure the content is appropriate for Class 10 students 
+●  Focus on making complex concepts easy to understand through visual elements 
+
+Tools & Resources 
+
+●  You are free to use AI coding tools like Lovable or any other development tools of 
+
+your choice 
+
+●  Prioritize user experience and educational effectiveness 
+
+What We're Looking For 
+
+●  Clear understanding of the chosen topic 
+●  Creative use of interactive elements 
+
+●  Clean, well-structured code 
+● 
+●  Educational value and engagement 
+
+Intuitive user interface design 
+
+Submission Guidelines 
+
+Please submit your completed assignment with: 
+●  Link to the deployed web application 
+●  Source code repository 
+●  Brief documentation explaining your approach and design decisions 
+
+Questions? 
+
+If you have any questions or need clarifications, please don't hesitate to reach out to us at 
+as@quazaredu.com 
+
+ 
+ 
+ 
+
